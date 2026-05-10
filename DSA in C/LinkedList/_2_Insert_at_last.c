@@ -56,9 +56,9 @@ int main()
             scanf("%d", &element);
             head = insertAtlast(head, element);
         }
-        else if(choice==2)
+        else if (choice == 2)
         {
-             traverse(head);
+            traverse(head);
         }
 
     } while (1);

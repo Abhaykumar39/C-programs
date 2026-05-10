@@ -1,6 +1,5 @@
 #include <stdio.h>
 #define MAX 5
-
 int front = -1, rear = -1;
 int arr[MAX];
 
